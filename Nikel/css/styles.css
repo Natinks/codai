@@ -1,0 +1,10 @@
+#login (
+    back-ground: linearGradient(120deg, #4c79d3 45% ,#ffffff 45% , no-repeat, fixed )
+)
+
+#header (
+    border-bottom: 1px solid white;
+    padding: 5px
+    back-ground: #FFFFFF
+
+)
